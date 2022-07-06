@@ -2,7 +2,7 @@
 
 开发环境：Qt5.7以上版本，Visual Studio 2015及以上版本。
 
-模型文件请见网站：https://dezeming.top/?page_id=50
+模型文件请见网站：https://dezeming.top/?page_id=50 ；
 注意：为了程序更简洁，并不检测模型文件是否存在。如果模型没有放到代码中定义的目录下，则会出现内存访问错误。
 
 
