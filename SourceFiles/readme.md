@@ -17,4 +17,8 @@
 ![image](https://github.com/feimos32/PBRT3-DezemingFamily/blob/main/Images/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-9-1.png)
 ![image](https://github.com/feimos32/PBRT3-DezemingFamily/blob/main/Images/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-10.png)
 ![image](https://github.com/feimos32/PBRT3-DezemingFamily/blob/main/Images/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-11.png)
+![image](https://github.com/feimos32/PBRT3-DezemingFamily/blob/main/Images/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-12-1.png)
+![image](https://github.com/feimos32/PBRT3-DezemingFamily/blob/main/Images/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-12-2.png)
+![image](https://github.com/feimos32/PBRT3-DezemingFamily/blob/main/Images/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-13.png)
+
 
