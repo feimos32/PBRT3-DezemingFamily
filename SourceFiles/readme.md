@@ -39,7 +39,7 @@
 
 <img src="https://github.com/feimos32/PBRT3-DezemingFamily/blob/main/Images/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-15-2.png" width="500px">
 
-<img src="https://github.com/feimos32/PBRT3-DezemingFamily/blob/main/Images/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-19.png" width="500px">
+<img src="https://github.com/feimos32/PBRT3-DezemingFamily/blob/main/Images/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-16.png" width="500px">
 
 
 
