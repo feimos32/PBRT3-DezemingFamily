@@ -2,7 +2,7 @@
 
 这是 [Dezeming Family : https://dezeming.top/] 的《PBRT3-零基础到精通系列》的随书源码。
 
-开发环境：Visual Studio 2015及以上版本；Qt版本：5.5以上、6.0以下版本。
+开发环境：Visual Studio 2015及以上版本；Qt版本：5.5以上、6.0以下版本。注意除了VS2015，其他版本可能需要自行下载一些库的dll和lib文件，例如用于模型读写的assimp。
 
 较大的模型文件请见网站：https://dezeming.top/?page_id=50 ； 注意：为了程序更简洁，并不检测模型文件是否存在。如果模型没有放到代码中定义的目录下，则可能会出现内存访问错误。
 
