@@ -8,7 +8,7 @@
 
 注：教程类代码不使用Git做版本控制管理，源码以压缩包格式给出。
 
-源码中的一些小Bug：
+后期发现的源码中的一些小Bug（等小Bug积累多了再统一修复更改）：
 
 (1) PBRT系列15的源码中，透视投影相机的GenerateRayDifferential()和GenerateRay()函数没有加入：ray->medium = medium;
 
