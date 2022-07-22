@@ -8,6 +8,12 @@
 
 注：教程类代码不使用Git做版本控制管理，源码以压缩包格式给出。
 
+源码中的一些小Bug：
+
+(1) PBRT系列15的源码中，透视投影相机的GenerateRayDifferential()和GenerateRay()函数没有加入：ray->medium = medium;
+
+
+
 各个章节的软件界面：
 
 <img src="https://github.com/feimos32/PBRT3-DezemingFamily/blob/main/Images/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-2-1.png" width="500px">
